@@ -3,3 +3,5 @@ I've coded an algorithm in C++ to solve the game of Machiavelli. The problem is 
 
 
 How to use: open machiavelli.exe, type in all the cards (like H10) with spaces inbetween, then type done. 
+
+![image](https://user-images.githubusercontent.com/68541293/87930208-3b8c4e00-caba-11ea-9310-9a5f5f313219.png)
